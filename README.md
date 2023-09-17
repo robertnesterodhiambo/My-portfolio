@@ -4,4 +4,4 @@ An interactive portfolio website built with MERN Technology stack that showcases
 
 ## site link
 
-https://nicholas-kipkoech.netlify.app/
+[https://nicholas-kipkoech.netlify.app/](https://odhiamborobertnester.online/)
